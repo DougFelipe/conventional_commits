@@ -1,3 +1,10 @@
+# Controle de Versão e Conventional Commits
+
+Este repositório é dedicado ao estudo e aplicação de práticas de Controle de Versão e Conventional Commits, fundamentais para a colaboração eficiente e gestão de projetos de software. Aqui, exploramos a importância do Controle de Versão, o papel dos commits no desenvolvimento de software, e como a adoção de Conventional Commits pode melhorar significativamente a clareza e utilidade das mensagens de commit. 
+
+Este repositório serve como um recurso de consulta aqueles que desejam adotar padrões de commits que facilitam a manutenção e colaboração em projetos de software.
+
+
 - [Controle de Versão e Conventional Commits](#controle-de-versão-e-conventional-commits)
   - [Por que o Controle de Versão é Importante?](#por-que-o-controle-de-versão-é-importante)
 - [Commit e Controle de Versão](#commit-e-controle-de-versão)
